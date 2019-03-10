@@ -2,17 +2,17 @@
 It is an open source library for calculating grade days using the simple sinus method.
 This trigonometric method adjust some sinus funtions to daily lowest and highest temperatures.
 <br/><br/>this method consist in the next 6 cases:
-1. Case 1: Completly under two umbrals<br/>![Case 1](img/case1.PNG)
+* Case 1: Completly under two umbrals<br/>![Case 1](img/case1.PNG)
 
-2. Case 2: It is applied when there are minimum temperatures below the lower threshold and the the maximum temperature is higher than the lower threshold but lower than the upper one.![Case 2](img/case2.PNG)
+* Case 2: It is applied when there are minimum temperatures below the lower threshold and the the maximum temperature is higher than the lower threshold but lower than the upper one.<br/>![Case 2](img/case2.PNG)
 
-3. Case 3: It develops when the maximum and minimum temperatures are within the thresholds and applies to a 24-hour period.![Case 3](img/case3.PNG)
+* Case 3: It develops when the maximum and minimum temperatures are within the thresholds and applies to a 24-hour period.<br/>![Case 3](img/case3.PNG)
 
-4. Case 4: It develops when the minimum temperature is above the lower threshold and the maximum temperature is higher than the maximum threshold.![Case 4](img/case4.PNG)
+* Case 4: It develops when the minimum temperature is above the lower threshold and the maximum temperature is higher than the maximum threshold.<br/>![Case 4](img/case4.PNG)
 
-5. Case 5: it is applied when the maximum and minimum temperatures are found above the two thresholds and applies to a 24-hour period.![Case 5](img/case5.PNG)
+* Case 5: it is applied when the maximum and minimum temperatures are found above the two thresholds and applies to a 24-hour period.<br/>![Case 5](img/case5.PNG)
 
-6. Case 6: It develops when the minimum temperature is lower than the lower threshold and the Maximum temperature is greater than the upper threshold and applies to a 24-hour period.![Case 6](img/case6.PNG)
+* Case 6: It develops when the minimum temperature is lower than the lower threshold and the Maximum temperature is greater than the upper threshold and applies to a 24-hour period.<br/>![Case 6](img/case6.PNG)
 
 <br/>
 
