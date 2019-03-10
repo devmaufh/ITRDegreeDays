@@ -2,8 +2,7 @@
 It is an open source library for calculating grade days using the simple sinus method.
 This trigonometric method adjust some sinus funtions to daily lowest and highest temperatures.
 <br/><br/>this method consist in the next 6 cases:
-1. Case 1: Completly under two umbrals
-![Case 1](img/case1.PNG)
+1. Case 1: Completly under two umbrals<br/>![Case 1](img/case1.PNG)
 
 2. Case 2: It is applied when there are minimum temperatures below the lower threshold and the the maximum temperature is higher than the lower threshold but lower than the upper one.![Case 2](img/case2.PNG)
 
