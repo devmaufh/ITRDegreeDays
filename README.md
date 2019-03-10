@@ -1,5 +1,5 @@
 # ITRDegreeDays
-It is an open source library for calculating grade days using the simple sinus method.
+ITRDegreeDays is an open source library for calculating grade days using the simple sinus method.
 This trigonometric method adjust some sinus funtions to daily lowest and highest temperatures.
 <br/><br/>this method consist in the next 6 cases:
 * Case 1: Completly under two umbrals<br/>![Case 1](img/case1.PNG)
@@ -41,3 +41,9 @@ print("Test 3 - Grados días: ",case2)
 #Test 2 - Grados días:  Días grados: #0.8574860460979651
 #Test 3 - Grados días:  Días grados: 2.123487819316327
 ```
+
+# Contributing
+We welcome both pull request and issues on [github](https://github.com/devmaufh/ITRDegreeDays).
+
+# Licensing
+ITRDegreeDays is released under the MIT license. 
