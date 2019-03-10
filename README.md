@@ -1,2 +1,2 @@
 # ITRDegreeDays
-It's an open source library to calculate degree days, using sen methdo.
+It is an open source library for calculating grade days using the simple sine method

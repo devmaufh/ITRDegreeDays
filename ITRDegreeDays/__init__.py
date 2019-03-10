@@ -1,1 +1,1 @@
-from degreedays import DegreeDays
+from ITRDegreeDays.degreedays import DegreeDays
